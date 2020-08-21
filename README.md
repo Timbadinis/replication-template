@@ -1,6 +1,6 @@
-# Replication template
+# Tim's Awesome Project
 
-This is a template you can use for your final projects (as well other projects where you need to post replication code.) Fill in each section with information on your own project.
+This is the last day of the class. We really learned a lot and became some scraping nerds.
 
 ## Short Description
 
